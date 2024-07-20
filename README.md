@@ -27,16 +27,13 @@ The slot machine uses the following symbols and their corresponding values:
 4. **Continue or Quit**: You can continue playing as long as you have money or quit the game.
 
 ## How the game looks
+Winning Example:
 
-What amount would you like to deposit? $100
-Enter the number of lines to bet on (1-3)? 3
-What would you like to bet on each line? $10
-You are betting $10 on 3 lines. Total bet is equal to: $30
-🍒 | 🍒 | 🍒
-🍋 | 🍉 | 🍉
-⭐ | 🍉 | 🍋
-You won $150.
-You won on lines: 1
+![image](https://github.com/user-attachments/assets/c0f28bd1-b92a-452a-89dd-64df32b50337)
+
+Losing Example:
+
+![image](https://github.com/user-attachments/assets/1fa32078-a7dd-485c-b564-5a5c2c4a674c)
 
 
 
